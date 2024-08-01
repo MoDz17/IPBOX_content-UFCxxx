@@ -15,11 +15,581 @@
        }, 
    
         {
-            "name": "Ultm. versión 30/07/2024",
+            "name": "Ultm. versión 01/08/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 30/07/2024",
+           "info": "última versión actualizada el 01/08/2024",
            "stations": []
-        }
- 
+        },
+
+	{
+             "name": "UFC304",
+             "image": "https://i.postimg.cc/YSpmj53r/304.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC304",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/YSpmj53r/304.png",
+                    "url":"",
+                    "isHost":"true",
+                    "online":""
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/YSpmj53r/304.png",
+                    "url":"https://filemoon.sx/d/h8dxmft0loyi",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/YSpmj53r/304.png",
+                    "url":"https://filemoon.sx/d/7ndq2pa8092i",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC303",
+             "image": "https://i.postimg.cc/bN3wBP7M/303.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC303",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/bN3wBP7M/303.png",
+                    "url":"https://filemoon.sx/d/vl686kvsvixy",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/bN3wBP7M/303.png",
+                    "url":"https://filemoon.sx/d/lj5vzeahk1fz",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/bN3wBP7M/303.png",
+                    "url":"https://filemoon.sx/d/cnyk2jo86oxo",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC302",
+             "image": "https://i.postimg.cc/hPph3zrZ/UFC-302.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC302",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/hPph3zrZ/UFC-302.png",
+                    "url":"https://filemoon.sx/d/hhsmk1uz6kdz",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/hPph3zrZ/UFC-302.png",
+                    "url":"https://filemoon.sx/d/6ppz5h8a59hx",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/hPph3zrZ/UFC-302.png",
+                    "url":"https://filemoon.sx/d/uwhccx0guju9",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC301",
+             "image": "https://i.postimg.cc/7ZLF2Q3N/ufc301.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC301",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/7ZLF2Q3N/ufc301.png",
+                    "url":"https://filemoon.sx/d/38us9t075sg5",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/7ZLF2Q3N/ufc301.png",
+                    "url":"https://filemoon.sx/d/9n5mvujggkpi",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/7ZLF2Q3N/ufc301.png",
+                    "url":"https://filemoon.sx/d/4c939s1p2oty",
+                    "isHost":"true",
+                    "online":"true"
+                    } 
+                ]
+            },
+            
+            {
+             "name": "UFC300",
+             "image": "https://i.postimg.cc/FzMSzpMk/33.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/vmF0kLDB/22.png",
+                    "url":"https://filemoon.sx/d/dc7w85l5tqqw",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/GhmVxQsn/1.jpg",
+                    "url":"https://filemoon.sx/d/3vu0uzxndexv",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC299",
+             "image": "https://i.postimg.cc/wxkNvCMB/UFC299.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/wxkNvCMB/UFC299.png",
+                    "url":"https://embedv.net/v/P0poO1013PkEz17",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/wxkNvCMB/UFC299.png",
+                    "url":"https://embedv.net/v/dNjgOl4G0eqO9Wn",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC298",
+             "image": "https://i.postimg.cc/HL8yPGbt/ufc298.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    
+                    {
+                    "name": "Estelares",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/HL8yPGbt/ufc298.png",
+                    "url":"https://embedv.net/v/m7WJxgJBl4j5Bze",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/HL8yPGbt/ufc298.png",
+                    "url":"https://embedv.net/v/e028E6RlP9dEYAv",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/HL8yPGbt/ufc298.png",
+                    "url":"https://embedv.net/v/l4vexvDgWpkO8B9",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/HL8yPGbt/ufc298.png",
+                    "url":"https://embedv.net/v/8lKQxYVQMelEDGY",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC297",
+             "image": "https://i.postimg.cc/SNxsfqg3/ufc-297.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/SNxsfqg3/ufc-297.png",
+                    "url":"https://filemoon.sx/d/nr6cdq48feqy",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/SNxsfqg3/ufc-297.png",
+                    "url":"https://filemoon.sx/d/g55gg02cw6lw",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC296",
+             "image": "https://i.postimg.cc/ry5vfYnk/UFC-296.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/ry5vfYnk/UFC-296.png",
+                    "url":"https://lbx.to/f/8lSy8al",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/ry5vfYnk/UFC-296.png",
+                    "url":"https://lbx.to/f/Qp50abC",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC295",
+             "image": "https://i.postimg.cc/1z2ts5N2/UFC-295.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/1z2ts5N2/UFC-295.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0N240MDAxYWNh0",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/1z2ts5N2/UFC-295.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0N240MDAzeHN30",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC294",
+             "image": "https://i.postimg.cc/28WhbMxP/UFC-294.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/28WhbMxP/UFC-294.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0NXZzMDAxcWZ60",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/28WhbMxP/UFC-294.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0NXZrMDAzbXc50",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+             
+            {
+             "name": "UFC293",
+             "image": "https://mmainforma.com/wp-content/uploads/2023/09/UFC-293.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://mmainforma.com/wp-content/uploads/2023/09/UFC-293.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MnNzMDA1Z2F60",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://mmainforma.com/wp-content/uploads/2023/09/UFC-293.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MnNzMDAxYWdp0",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+           
+            {
+             "name": "UFC292",
+             "image": "https://espnpressroom.com/us/files/2023/08/UFC_292_Boston_KA_3840x2160-scaled.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://espnpressroom.com/us/files/2023/08/UFC_292_Boston_KA_3840x2160-scaled.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MnRvMDAxMWJ30",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://espnpressroom.com/us/files/2023/08/UFC_292_Boston_KA_3840x2160-scaled.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MnRjMDB1N25m0",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC291",
+             "image": "https://phantom-marca.unidadeditorial.es/9efac8fa2bcd5838131fc264f1f92aa2/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/27/16904840088138.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://phantom-marca.unidadeditorial.es/9efac8fa2bcd5838131fc264f1f92aa2/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/27/16904840088138.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MDI0MDAwazJu0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://phantom-marca.unidadeditorial.es/9efac8fa2bcd5838131fc264f1f92aa2/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/27/16904840088138.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MDIwMDBvMjRj0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC290",
+             "image": "https://i.postimg.cc/DfL2fr1V/ufc290.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC290",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/DfL2fr1V/ufc290.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzeTRnMDAzcXAy0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC289",
+             "image": "https://i.postimg.cc/G3PyQ5NG/UFC-289.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                 [
+                    {
+                    "name": "UFC289",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/G3PyQ5NG/UFC-289.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzdzM0MDAydGxr0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC288",
+             "image": "https://espnpressroom.com/us/files/2023/05/UFC_288_Newark_KA_3840x2160-scaled.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                 [
+                    {
+                    "name": "UFC288",
+                    "info":"ESPN",
+                    "image": "https://espnpressroom.com/us/files/2023/05/UFC_288_Newark_KA_3840x2160-scaled.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzdzM4MDA0aGN00",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC287",
+             "image": "https://i.postimg.cc/VN2BpZj1/UFC-287.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                 [
+                    {
+                    "name": "UFC287",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/VN2BpZj1/UFC-287.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzdzNjMDAydGpn0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC286",
+             "image": "https://espnpressroom.com/us/files/2023/03/UFC_286_London_KA_1920x1080@2x.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                 [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://espnpressroom.com/us/files/2023/03/UFC_286_London_KA_1920x1080@2x.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzdzdvMDA0Y2I50",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://espnpressroom.com/us/files/2023/03/UFC_286_London_KA_1920x1080@2x.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzdzdrMDBrNjJm0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC285",
+             "image": "https://i.postimg.cc/J0NfGk1D/UFC-285.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                 [
+                    {
+                    "name": "UFC285",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/J0NfGk1D/UFC-285.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzdzg4MDA0M3ds0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC284",
+             "image": "https://artwork.espncdn.com/programs/990de76e-f174-4cc6-9471-42a4864b9e88/16x9/1280x720_20230125193840.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelar",
+                    "info":"ESPN",
+                    "image": "https://i.ytimg.com/vi/GfZg_IUZZo0/maxresdefault.jpg",
+                    "url":"https://www.yourupload.com/watch/610KCb2Kwu5n",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Co-estelar",
+                    "info":"ESPN",
+                    "image": "https://www.elnuevoherald.com/ultimas-noticias/8dz7du/picture272303983/alternates/LANDSCAPE_1140/Yair-Rodriguez-Josh-Emmett-UFC.jpg",
+                    "url":"https://www.yourupload.com/watch/QwBVjbqF36io",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC283",
+             "image": "https://i.postimg.cc/9Ffh5ZNz/ufc-283.webp",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                 [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/9Ffh5ZNz/ufc-283.webp",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzdzhjMDAzNjI50",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preeliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/9Ffh5ZNz/ufc-283.webp",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzdzhjMDA1dnR20",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            }
     ]
 }

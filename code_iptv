@@ -15,9 +15,9 @@
        }, 
    
         {
-            "name": "Ultm. versión 04/08/2024",
+            "name": "Ultm. versión 07/08/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 04/08/2024",
+           "info": "última versión actualizada el 07/08/2024",
            "stations": []
         },
 
@@ -31,9 +31,9 @@
                     {
                     "name": "UFC304",
                     "info":"Eurosport",
-                    "image": "https://i.postimg.cc/YSpmj53r/304.png",
+                    "image": "https://i.ibb.co/jr7VQss/logo-off.png",
                     "url":"",
-                    "isHost":"true",
+                    "isHost":"false",
                     "online":""
                     }, {
                     "name": "Estelares",

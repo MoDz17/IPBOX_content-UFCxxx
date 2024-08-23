@@ -15,11 +15,43 @@
        }, 
    
         {
-            "name": "Ultm. versión 07/08/2024",
+            "name": "Ultm. versión 23/08/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 07/08/2024",
+           "info": "última versión actualizada el 23/08/2024",
            "stations": []
         },
+
+	{
+             "name": "UFC305",
+             "image": "https://i.postimg.cc/Hsjc5sxT/UFC-305.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC304",
+                    "info":"Eurosport",
+                    "image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    "url":"",
+                    "isHost":"false",
+                    "online":""
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/Hsjc5sxT/UFC-305.png",
+                    "url":"https://filemoon.sx/d/wy0qb9pd3xi3",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/Hsjc5sxT/UFC-305.png",
+                    "url":"https://listeamed.net/v/8lKQxYVPpXlEDGY",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+    	},
 
 	{
              "name": "UFC304",

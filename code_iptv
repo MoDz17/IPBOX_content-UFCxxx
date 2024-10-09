@@ -15,11 +15,36 @@
        }, 
    
         {
-            "name": "Ultm. versión 17/09/2024",
+            "name": "Ultm. versión 10/10/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 17/09/2024",
+           "info": "última versión actualizada el 10/10/2024",
            "stations": []
         },
+
+	{
+             "name": "UFC307",
+             "image": "https://i.postimg.cc/W4BSNnHh/UFC307.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC307",
+                    "info":"Eurosport",
+                    "image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    "url":"",
+                    "isHost":"false",
+                    "online":""
+                    }, {
+                    "name": "UFC307",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/W4BSNnHh/UFC307.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0dnlrMDAwNXgw0",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+    	},
 
 	{
              "name": "UFC306",

@@ -15,11 +15,36 @@
        }, 
    
         {
-            "name": "Ultm. versión 10/10/2024",
+            "name": "Ultm. versión 30/10/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 10/10/2024",
+           "info": "última versión actualizada el 30/10/2024",
            "stations": []
         },
+
+	{
+             "name": "UFC308",
+             "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"Inglés",
+                    "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
+                    "url":"https://listeamed.net/v/edVqE4l9oP1EYWm",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"Inglés",
+                    "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
+                    "url":"https://listeamed.net/v/KrdZ5kMgvyjEmX4",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+    	},
 
 	{
              "name": "UFC307",

@@ -15,11 +15,36 @@
        }, 
    
         {
-            "name": "Ultm. versión 30/10/2024",
+            "name": "Ultm. versión 19/11/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 30/10/2024",
+           "info": "última versión actualizada el 19/11/2024",
            "stations": []
         },
+
+	{
+             "name": "UFC309",
+             "image": "https://i.postimg.cc/VvtxdM3C/ufc309-jpg.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC309",
+                    "info":"Eurosport",
+                    "image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                    "url":"",
+                    "isHost":"false",
+                    "online":""
+                    }, {
+                    "name": "UFC309",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/VvtxdM3C/ufc309-jpg.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0eXpjMDAxcGtm0",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+    	},
 
 	{
              "name": "UFC308",
@@ -29,6 +54,13 @@
              "stations":
                 [
                     {
+                    "name": "UFC308",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0eGQwMDAwMjg20",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
                     "name": "Estelares",
                     "info":"Inglés",
                     "image": "https://i.postimg.cc/ryNPtPFn/UFC-308.png",
